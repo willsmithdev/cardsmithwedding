@@ -39,7 +39,23 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3530,
+				"buffer_size": 2965,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/wedding.css",
+			"settings":
+			{
+				"buffer_size": 1015,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "venue.html",
+			"settings":
+			{
+				"buffer_size": 2850,
 				"line_ending": "Windows"
 			}
 		},
@@ -47,31 +63,7 @@
 			"file": "menu.html",
 			"settings":
 			{
-				"buffer_size": 3531,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "venue.html",
-			"settings":
-			{
-				"buffer_size": 5420,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "music.html",
-			"settings":
-			{
-				"buffer_size": 3530,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "hotels.html",
-			"settings":
-			{
-				"buffer_size": 3529,
+				"buffer_size": 2696,
 				"line_ending": "Windows"
 			}
 		},
@@ -79,7 +71,23 @@
 			"file": "gifts.html",
 			"settings":
 			{
-				"buffer_size": 3530,
+				"buffer_size": 2696,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "hotels.html",
+			"settings":
+			{
+				"buffer_size": 5014,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "music.html",
+			"settings":
+			{
+				"buffer_size": 2696,
 				"line_ending": "Windows"
 			}
 		}
@@ -111,6 +119,10 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Novi/workspace/cardsmithwedding/css/wedding.css",
+		"/C/Users/Novi/workspace/cardsmithwedding/hotels.html",
+		"/C/Users/Novi/workspace/cardsmithwedding/venue.html",
+		"/C/Users/Novi/workspace/cardsmithwedding/music.html",
 		"/C/Users/Novi/AppData/Roaming/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
 		"/C/Users/Novi/AppData/Roaming/Sublime Text 3/Packages/MavensMate/mavensmate.sublime-settings"
 	],
@@ -150,7 +162,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -159,15 +171,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3530,
+						"buffer_size": 2965,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1463,
-								1463
+								2801,
+								2666
 							]
 						],
 						"settings":
@@ -175,38 +187,40 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 315.0,
+						"translation.y": 1355.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "menu.html",
+					"file": "css/wedding.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3531,
+						"buffer_size": 1015,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1463,
-								1463
+								45,
+								45
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 390.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -215,43 +229,44 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5420,
+						"buffer_size": 2850,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5382,
-								5382
+								2415,
+								2415
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2935.0,
+						"translation.y": 1180.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "music.html",
+					"file": "menu.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3530,
+						"buffer_size": 2696,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1463,
-								1463
+								2385,
+								2191
 							]
 						],
 						"settings":
@@ -259,7 +274,7 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 340.0,
+						"translation.y": 1000.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
@@ -267,47 +282,19 @@
 				},
 				{
 					"buffer": 4,
-					"file": "hotels.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3529,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1463,
-								1463
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 400.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
 					"file": "gifts.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3530,
+						"buffer_size": 2696,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1463,
-								1463
+								2401,
+								2401
 							]
 						],
 						"settings":
@@ -315,10 +302,68 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 850.0,
+						"translation.y": 1395.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "hotels.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5014,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4703,
+								4703
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1125.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "music.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2385,
+								2364
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1315.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]

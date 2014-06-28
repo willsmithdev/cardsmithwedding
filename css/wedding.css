@@ -1,3 +1,12 @@
+body
+{
+  height:100%;
+}
+
+#wrap{
+  height:100%;
+}
+
 @media (min-width: 768px) { 
     .navbar .nav,
   .navbar .nav > li {
@@ -30,13 +39,24 @@
 }
 
 #footer{
-  position: absolute;
   bottom: 0;
   width: 100%;
-  height: 60px;
-  background-color: #123;
+  height: 150px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #e7e7e7;
 }
 
-#footer p{
-  margin: 20px 0;
+.footerLarge
+{
+  background-image: url('../images/hops.png');
+}
+
+.footerSmall
+{
+  background-image: url('../images/hops_sm.png');
+}
+
+#footer .container{
+  margin-top: 15px;
 }
