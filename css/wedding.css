@@ -1,0 +1,42 @@
+@media (min-width: 768px) { 
+    .navbar .nav,
+  .navbar .nav > li {
+      float:none;
+      display:inline-block;
+      *display:inline; /* ie7 fix */
+      *zoom:1; /* hasLayout ie7 trigger */          
+  } 
+} 
+
+.navbar-default{
+  background-color:#F3F3F3;
+}
+
+.navbar-default .navbar-nav>li>a {
+  font-weight:bold;
+  color: #537CCF;
+  font-family: 'Amatic SC', cursive;
+  font-size: 35px;
+} 
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+  color: #E6E600;
+  background-color: #537CCF;
+  border-radius: 50px;
+}
+
+.navbar-toggle .icon-bar{
+  width: 100%;
+}
+
+#footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #123;
+}
+
+#footer p{
+  margin: 20px 0;
+}
