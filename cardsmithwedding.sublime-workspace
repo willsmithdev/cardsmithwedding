@@ -39,23 +39,15 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2965,
+				"buffer_size": 3022,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/wedding.css",
-			"settings":
-			{
-				"buffer_size": 1015,
-				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "venue.html",
 			"settings":
 			{
-				"buffer_size": 2850,
+				"buffer_size": 3758,
 				"line_ending": "Windows"
 			}
 		},
@@ -63,7 +55,7 @@
 			"file": "menu.html",
 			"settings":
 			{
-				"buffer_size": 2696,
+				"buffer_size": 3023,
 				"line_ending": "Windows"
 			}
 		},
@@ -71,7 +63,7 @@
 			"file": "gifts.html",
 			"settings":
 			{
-				"buffer_size": 2696,
+				"buffer_size": 3022,
 				"line_ending": "Windows"
 			}
 		},
@@ -79,7 +71,7 @@
 			"file": "hotels.html",
 			"settings":
 			{
-				"buffer_size": 5014,
+				"buffer_size": 5277,
 				"line_ending": "Windows"
 			}
 		},
@@ -87,7 +79,7 @@
 			"file": "music.html",
 			"settings":
 			{
-				"buffer_size": 2696,
+				"buffer_size": 4975,
 				"line_ending": "Windows"
 			}
 		}
@@ -171,15 +163,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2965,
+						"buffer_size": 3022,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2801,
-								2666
+								1694,
+								1044
 							]
 						],
 						"settings":
@@ -187,7 +179,7 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1355.0,
+						"translation.y": 462.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 5,
@@ -195,49 +187,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "css/wedding.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1015,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								45,
-								45
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "venue.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2850,
+						"buffer_size": 3758,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2415,
-								2415
+								972,
+								877
 							]
 						],
 						"settings":
@@ -246,27 +208,27 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1180.0,
+						"translation.y": 176.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "menu.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2696,
+						"buffer_size": 3023,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2385,
-								2191
+								1694,
+								1694
 							]
 						],
 						"settings":
@@ -274,55 +236,55 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1000.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "gifts.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2696,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2401,
-								2401
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1395.0,
+						"translation.y": 374.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 3,
+					"file": "gifts.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3022,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1694,
+								1694
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 374.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
 					"file": "hotels.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5014,
+						"buffer_size": 5277,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4703,
-								4703
+								1699,
+								1699
 							]
 						],
 						"settings":
@@ -331,27 +293,27 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1125.0,
+						"translation.y": 2090.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 5,
 					"file": "music.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2696,
+						"buffer_size": 4975,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2385,
-								2364
+								4013,
+								4013
 							]
 						],
 						"settings":
@@ -360,10 +322,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1315.0,
+						"translation.y": 3014.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]

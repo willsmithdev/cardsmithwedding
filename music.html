@@ -17,69 +17,121 @@
 	    <![endif]-->
 
 	    <link href="css/wedding.css" rel="stylesheet"/>
+	    <link href='http://fonts.googleapis.com/css?family=Tangerine' rel='stylesheet' type='text/css'>
+
+	    <style>
+	    	.form-control{
+	    		font-size: 20px;
+	    		height:60px;
+	    	}
+
+	    	.btn{
+	    		font-size:20px;
+	    		width:100%;
+	    	}
+	    </style>
 
 	</head>
-	<body>
-    
-	  	<div id="wrap">
-		  	
-
-	  		<div class="navbar navbar-default navbar-static-top" role="navigation">
-	  			
-	  			<div class="container-fluid" style="text-align:center;">
-	  				
-	  				<div class="navbar-header">
-			            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+	<body style="font-family: 'Tangerine', cursive; font-size: 30px;">
+	
+  		<div class="navbar navbar-default navbar-static-top" role="navigation">
+  			
+  			<div class="container-fluid" style="text-align:center;">
+  				
+  				<div class="navbar-header">
+  					<div class="row">
+  						<img class="hidden-lg hidden-md hidden-sm" style="padding:5px 0px;" src="images/beermatfront.png"/>
+  					</div>
+  					<div class="row">
+			            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" style="width:200px; float:none; margin-right:0px;">
 			              <span class="sr-only">Toggle navigation</span>
 			              <span class="icon-bar"></span>
 			              <span class="icon-bar"></span>
 			              <span class="icon-bar"></span>
-			            </button>
-			       	</div>
+			            </button>	
+		            </div>		            
+		       	</div>
 
-	  				<div class="collapse navbar-collapse">
+  				<div class="collapse navbar-collapse">
 
-		  				<ul class="nav navbar-nav">
-		  					
-		  					<li>
-		  						<a href="index.html">Home</a>
-		  					</li>
-		  					<li>
-		  						<a href="venue.html">Venue</a>
-		  					</li>
-		  					<li>
-		  						<a href="hotels.html">Hotels</a>
-		  					</li>
-		  					<li class="hidden-xs">
-		  						<img style="padding:5px 0px;" src="images/beermatfront.png"/>
-		  					</li>
-		  					<li>
-		  						<a href="menu.html">Menu</a>
-		  					</li>
-		  					<li class="active">
-		  						<a href="#">Music</a>
-		  					</li>
-		  					<li>
-		  						<a href="gifts.html">Gifts</a>
-		  					</li>		  					
-		  				</ul>
-		  			</div>	
-	  			</div>
-	 			
-	  		</div>
-		  	
-		  	<div class="container">
-			    <div class="row" style="text-align:center;">
-			    	<div class="col-12">
-			    		Coming Soon...
+	  				<ul class="nav navbar-nav">
+	  					
+	  					<li>
+	  						<a href="index.html">Home</a>
+	  					</li>
+	  					<li>
+	  						<a href="venue.html">Venue</a>
+	  					</li>
+	  					<li>
+	  						<a href="hotels.html">Hotels</a>
+	  					</li>
+	  					<li class="hidden-xs">
+	  						<img style="padding:5px 0px;" src="images/beermatfront.png"/>
+	  					</li>
+	  					<li>
+	  						<a href="menu.html">Menu</a>
+	  					</li>
+	  					<li class="active">
+	  						<a href="#">Music</a>
+	  					</li>
+	  					<li>
+	  						<a href="gifts.html">Gifts</a>
+	  					</li>		  					
+	  				</ul>
+	  			</div>	
+  			</div>
+ 			
+  		</div>
+	  	
+	  	<div class="container">
+		    <div class="row">
+		    	<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 center-block" style="float:none;">
+
+		    		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align:center;">
+			    		<h1 style="font-family: 'Tangerine', cursive; font-size:36px; font-weight:bold;">
+			    			- Music -
+			    		</h1>
+			    		<p style="font-family: 'Tangerine', cursive; font-size:30px;">
+				    		Our music taste is eclectic to say the least... Everyone likes something different, so please submit your favourite song and we'll make sure it gets played during the night!
+				    	</p>
+				    	<br/>
 			    	</div>
-			    </div>
-			</div>
-		  	<div id="push"></div>
+
+		    		<form action="https://getsimpleform.com/messages?form_api_token=189853fca181456aa5ab2821ef4034ac" method="post" class="form-horizontal">
+						<!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+						<input type='hidden' name='redirect_to' value='http://www.cardsmithwedding.co.uk' />
+
+						<div class="form-group">
+							<label for="songInput" class="col-sm-2 control-label" style="font-weight: normal;">Song</label>
+							<div class="col-sm-10">
+								<input type="text" class="form-control" id="songInput" placeholder="Song">
+							</div>
+							</div>
+						<div class="form-group">
+							<label for="artistInput" class="col-sm-2 control-label" style="font-weight: normal;">Artist</label>
+							<div class="col-sm-10">
+								<input type="text" class="form-control" id="artistInput" placeholder="Artist">
+							</div>
+						</div>
+						<div class="form-group">
+							<div class="col-sm-offset-2 col-sm-10">
+								<button type="submit" class="btn btn-default">Send!</button>
+							</div>
+						</div>
+					</form>
+					<br/><br/>
+		    	</div>
+		    </div>
 		</div>
 		
-		<div id="footer" class="footerLarge hidden-xs"></div>
-	    <div id="footer" class="footerSmall hidden-lg hidden-md hidden-sm"></div>
+		<div id="footer" class="footer" style="margin-top:25px;">
+			<br/>
+			<div style="text-align:center; font-weight:bold;">
+				Danby Castle<br/>Castle Lane, Danby, Whitby, North Yorkshire, YO21 2NP
+				<br/>
+				<img src="images/hops_sm.png" style="padding-top:15px; padding-bottom:25px;"/>
+			</div>		
+		</div>
 
 	    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 	    <script src="js/bootstrap.min.js"></script>
