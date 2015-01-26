@@ -36,42 +36,26 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 3022,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "venue.html",
-			"settings":
-			{
-				"buffer_size": 3758,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "menu.html",
-			"settings":
-			{
-				"buffer_size": 3023,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "gifts.html",
-			"settings":
-			{
-				"buffer_size": 3022,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "hotels.html",
 			"settings":
 			{
-				"buffer_size": 5277,
+				"buffer_size": 10815,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3021,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/wedding.css",
+			"settings":
+			{
+				"buffer_size": 1133,
 				"line_ending": "Windows"
 			}
 		},
@@ -79,7 +63,7 @@
 			"file": "music.html",
 			"settings":
 			{
-				"buffer_size": 4975,
+				"buffer_size": 5009,
 				"line_ending": "Windows"
 			}
 		}
@@ -109,8 +93,20 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/D/Wedding/cardsmithwedding",
+		"/D/Wedding/cardsmithwedding/css"
+	],
 	"file_history":
 	[
+		"/D/Wedding/cardsmithwedding/css/wedding.css",
+		"/D/Wedding/cardsmithwedding/music.html",
+		"/D/Wedding/cardsmithwedding/hotels.html",
+		"/D/Wedding/cardsmithwedding/index.html",
+		"/D/Wedding/cardsmithwedding/gifts.html",
+		"/D/Wedding/cardsmithwedding/venue.html",
+		"/D/Wedding/cardsmithwedding/menu.html",
 		"/C/Users/Novi/workspace/cardsmithwedding/css/wedding.css",
 		"/C/Users/Novi/workspace/cardsmithwedding/hotels.html",
 		"/C/Users/Novi/workspace/cardsmithwedding/venue.html",
@@ -134,6 +130,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Button",
 			"deductCreditNote",
 			"CreditNoteInfo",
 			"Voucherinfo"
@@ -154,52 +151,24 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "hotels.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3022,
+						"buffer_size": 10815,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1694,
-								1044
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 462.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "venue.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3758,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								972,
-								877
+								5568,
+								5568
 							]
 						],
 						"settings":
@@ -208,83 +177,27 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 176.0,
+						"translation.y": 1026.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "menu.html",
+					"buffer": 1,
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3023,
+						"buffer_size": 3021,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1694,
-								1694
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 374.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "gifts.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3022,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1694,
-								1694
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 374.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "hotels.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5277,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1699,
-								1699
+								652,
+								652
 							]
 						],
 						"settings":
@@ -293,27 +206,57 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2090.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/wedding.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								730,
+								730
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 336.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 3,
 					"file": "music.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4975,
+						"buffer_size": 5009,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4013,
-								4013
+								3368,
+								2764
 							]
 						],
 						"settings":
@@ -322,10 +265,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 3014.0,
+						"translation.y": 1537.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -400,6 +343,7 @@
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
 	},
