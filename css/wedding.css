@@ -2,6 +2,7 @@ body
 {
   background-color: #F8F8F8;
   height:100%;
+  font-family: 'Tangerine', cursive; font-size: 30px;
 }
 
 #wrap{
@@ -64,6 +65,29 @@ body
   background-image: url('../images/hops_sm.png');
 }
 
-#footer .container{
+#footer .container
+{
   margin-top: 15px;
+}
+
+.hotelContainer
+{  
+  margin-bottom:20px; 
+  padding:30px 0px; 
+  border: 1px dotted #ccc;
+  border-radius: 4px;
+}
+
+.hotelContainer:hover{
+  background-color:rgb(223, 223, 255);
+}
+
+.hotelContainerHeader{
+  font-weight:bold;
+  color: #000000;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: none;
 }

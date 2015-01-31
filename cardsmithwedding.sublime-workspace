@@ -39,7 +39,7 @@
 			"file": "hotels.html",
 			"settings":
 			{
-				"buffer_size": 10815,
+				"buffer_size": 8943,
 				"line_ending": "Windows"
 			}
 		},
@@ -47,7 +47,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3021,
+				"buffer_size": 3528,
 				"line_ending": "Windows"
 			}
 		},
@@ -55,7 +55,7 @@
 			"file": "css/wedding.css",
 			"settings":
 			{
-				"buffer_size": 1133,
+				"buffer_size": 1495,
 				"line_ending": "Windows"
 			}
 		},
@@ -130,6 +130,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<br/>\n									",
+			"<br/>",
+			"</b>",
+			"<b>",
+			"margin-bottom:10px; padding:30px 0px; border: 1px dotted #ccc;",
+			" padding:20px",
+			"30px",
+			"20px",
+			"li",
 			"Button",
 			"deductCreditNote",
 			"CreditNoteInfo",
@@ -160,15 +169,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10815,
+						"buffer_size": 8943,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5568,
-								5568
+								3549,
+								3549
 							]
 						],
 						"settings":
@@ -177,10 +186,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1026.0,
+						"translation.y": 1480.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -189,15 +198,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3021,
+						"buffer_size": 3528,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								652,
-								652
+								2820,
+								2820
 							]
 						],
 						"settings":
@@ -206,7 +215,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1262.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -218,15 +227,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1133,
+						"buffer_size": 1495,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								730,
-								730
+								104,
+								104
 							]
 						],
 						"settings":
@@ -236,10 +245,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 336.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -255,8 +264,8 @@
 						"selection":
 						[
 							[
-								3368,
-								2764
+								2849,
+								2849
 							]
 						],
 						"settings":
@@ -265,10 +274,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1537.0,
+						"translation.y": 1595.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
