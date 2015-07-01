@@ -52,10 +52,10 @@
 			}
 		},
 		{
-			"file": "css/wedding.css",
+			"file": "gifts.html",
 			"settings":
 			{
-				"buffer_size": 1495,
+				"buffer_size": 3442,
 				"line_ending": "Windows"
 			}
 		},
@@ -69,9 +69,14 @@
 		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -95,11 +100,11 @@
 	},
 	"expanded_folders":
 	[
-		"/D/Wedding/cardsmithwedding",
-		"/D/Wedding/cardsmithwedding/css"
+		"/C/Users/William/Documents/Wedding/cardsmithwedding"
 	],
 	"file_history":
 	[
+		"/C/Users/William/Documents/Wedding/cardsmithwedding/css/wedding.css",
 		"/D/Wedding/cardsmithwedding/css/wedding.css",
 		"/D/Wedding/cardsmithwedding/music.html",
 		"/D/Wedding/cardsmithwedding/hotels.html",
@@ -215,7 +220,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 369.0,
+						"translation.y": 69.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -223,29 +228,28 @@
 				},
 				{
 					"buffer": 2,
-					"file": "css/wedding.css",
+					"file": "gifts.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1495,
+						"buffer_size": 3442,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								403,
-								403
+								2951,
+								2938
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
-						"translation.x": -0.0,
-						"translation.y": 684.0,
+						"translation.x": 0.0,
+						"translation.y": 668.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -322,6 +326,7 @@
 	{
 		"height": 0.0
 	},
+	"pinned_build_system": "",
 	"project": "cardsmithwedding.sublime-project",
 	"replace":
 	{
@@ -331,6 +336,7 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -339,6 +345,7 @@
 	"select_project":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -347,6 +354,7 @@
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
